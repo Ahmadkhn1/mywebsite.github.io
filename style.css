@@ -1,0 +1,161 @@
+*{
+    padding: 0%;
+    margin: 0%;                                            
+}
+.div-1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/imges/wp2691479-cyber-security-wallpapers.jpg);
+    background-color: rgb(0, 0, 0);
+    background-position: center;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.logo{
+    font-family: 'Bebas', sans-serif;  
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+span{
+    color: red;
+}
+nav ul li{
+    size: 30px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+    font-weight: bold;
+}
+.links{
+    font-family: 'Bebas', sans-serif;  
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.ho:hover{
+    color: red;
+    transition: .4s;
+}
+.div-2{
+    font-family: 'Bebas', sans-serif;  
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+h1{
+    font-size: 70px;
+    color: white;
+    letter-spacing: 1px;
+    margin: 15px 0px 15px;
+}
+h3{
+    font-size: 25px;
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+h4{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+.blogs{
+    width: 100%;
+    padding: 100px;
+    background-color: black;
+}
+.blogs-1{
+    color: white;
+}
+.blogs-1 h2{
+    font-family: 'Bebas', sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin: 15px 0 15px;
+}
+.blogs-1 h3{
+    margin: 15px 0 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ABOUT SECTION  */
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: rgb(26, 26, 26);
+}
+.about img{
+    height: auto;
+    width: 430px;
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h2{
+    color:  white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-text h5{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+sp
+.about-text p{
+    padding: 0%;
+    margin: 0%;
+    font-size: 20px;
+    color: white;
+  }
+
+
+           /* FOOTER  */
+
+.text-center{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
